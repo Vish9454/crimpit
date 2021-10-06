@@ -1,0 +1,80 @@
+"""user related routes """
+from django.conf.urls import url
+from django.urls import path
+from accounts import views as user_views
+
+urlpatterns = [
+    url('^signup$', user_views.UserSignUpViewSet.as_view({'post': 'create'}), name='create-users'),
+    url('^verify_email_address$', user_views.VerifyEmailAddressViewSet.as_view({'post': 'create'}),
+        name='verify-user-email'),
+    url('^resend_email_verify_link$', user_views.ResendEmailVerifyLinkViewSet.as_view({'post': 'create'}),
+        name='resend-email-verify-link'),
+    url('^login$', user_views.LogInViewSet.as_view({'post': 'create'}), name='user-log-in'),
+    url('^forgot_password$', user_views.ForgotPasswordViewSet.as_view({'post': 'create'}), name='forgot-password'),
+    url('^reset_password$', user_views.ResetPasswordViewSet.as_view({'post': 'create'}),
+        name='reset-change-password'),
+    # url('^resend_forgot_password_link$', user_views.ResendForgotPasswordLinkViewSet.as_view({'post': 'create'}),
+    #     name='resend-forgot-password-link'),
+    url('^climbing_preference$', user_views.ClimbingPreferenceViewSet.as_view(
+        {'get': 'list', 'put': 'perform_update'}), name='climbing-preference'),
+    url('^not_found_gym$', user_views.NotFoundGymViewSet.as_view({'post': 'create'}),
+        name='not-found-gym-view-set'),
+    url('^mark_home_gym$', user_views.MarkHomeGymViewSet.as_view({'get': 'list', 'post': 'create'}),
+        name='mark-home-gym-view-set'),
+    url('^unmark_home_gym$', user_views.UnMarkHomeGymViewSet.as_view({'put': 'perform_update'}),
+        name='unmark-home-gym-view-set'),
+    url('^climber_home_decision$', user_views.ClimberHomeDecisionViewSet.as_view({'get': 'list'}),
+        name='climbers-home-decision-view-set'),
+    url('^climber_home$', user_views.ClimberHomeViewSet.as_view({'get': 'list'}), name='climbers-home-view-set'),
+    path('climber_home/<int:gym_id>', user_views.ClimberHomeViewSet.as_view({'get': 'retrieve'}),
+         name='climbers-home-view-set'),
+    path('climber_home_more/<int:gym_id>', user_views.ClimberHomeMoreViewSet.as_view({'get': 'retrieve'}),
+         name='climbers-home-more-view-set'),
+    url('^climber_home_section$', user_views.ClimberHomeSectionViewSet.as_view({'get': 'list'}),
+        name='climber-home-section-click-viewset'),
+    url('^wall_route$', user_views.WallRouteViewSet.as_view({'get': 'list'}), name='wall-route-view-set'),
+    path('wall_route/<int:route_id>', user_views.WallRouteViewSet.as_view({'get': 'retrieve'}),
+         name='wall-route-view-set'),
+    path('wall_route_only_feedback/<int:route_id>', user_views.WallRouteFeedbackViewSet.as_view({'get': 'retrieve'}),
+         name='wall-route-feedback-view-set'),
+    url('^list_category$', user_views.ListCategoryViewSet.as_view({'get': 'list', 'post': 'create', 'put': 'update'}),
+        name='list-category-view-set'),
+    # path('list_category/<int:category_id>', user_views.ListCategoryViewSet.as_view({'delete': 'destroy'}),
+    #      name='list-category-view-set'),
+
+    # Wall Tab
+    url('^route_into_category$', user_views.RouteIntoCategoryViewSet.as_view(
+        {'get': 'list', 'post': 'create', 'put': 'update'}), name='save-route-in-category-view-set'),
+    url('^route_feedback$', user_views.RouteFeedbackViewSet.as_view({'get': 'list', 'post': 'create'}),
+        name='route-feedback-view-set'),
+    path('route_feedback/<int:feedback_id>', user_views.RouteFeedbackViewSet.as_view({'get': 'retrieve'}),
+         name='route-feedback-view-set'),
+
+    # Announcements & Events
+    url('^announcement$', user_views.AnnouncementViewSet.as_view({'get': 'list'}),
+        name='announcement-view-set'),
+    path('announcement/<int:announcement_id>', user_views.AnnouncementViewSet.as_view({'get': 'retrieve'}),
+         name='announcement-view-set'),
+    url('^event$', user_views.EventViewSet.as_view({'get': 'list', 'post': 'create'}),
+        name='event-view-set'),
+    path('event/<int:event_id>', user_views.EventViewSet.as_view({'get': 'retrieve'}),
+         name='event-view-set'),
+
+    # settings
+    url('^detail$', user_views.UserDetailViewSet.as_view({'get': 'list', 'put': 'perform_update'}),
+        name='get-update-user'),
+    url('^change_image$', user_views.UpdateUserImageViewSet.as_view({'put': 'perform_update'}),
+        name='change-user-image-view-set'),
+    url('^percentage_detail$', user_views.PercentageDetailViewSet.as_view({'get': 'retrieve'}),
+        name='percentage-detail-view-set'),
+    url('^climbing_info$', user_views.ClimbingInfoViewSet.as_view({'get': 'retrieve', 'put': 'update'}),
+        name='climbing-info-view-set'),
+    url('^biometric_data$', user_views.BiometricDataViewSet.as_view({'get': 'retrieve', 'put': 'update'}),
+        name='biometric-data-view-set'),
+    url('^saved_event$', user_views.SavedEventViewSet.as_view({'get': 'list'}),
+        name='saved-event-view-set'),
+    url('^question_answer$', user_views.QuestionAnswerViewSet.as_view({'get': 'list'}),
+        name='question-answer-view-set'),
+    url('^check_climber_is_staff$', user_views.CheckClimberIsStaff.as_view({'get': 'list'}),
+        name='check-staff-view-set'),
+]

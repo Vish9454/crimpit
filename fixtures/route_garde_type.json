@@ -1,0 +1,1346 @@
+[
+{
+    "model": "gyms.gradetype",
+    "pk": 1,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.144Z",
+        "updated_at": "2021-06-11T09:04:13.144Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.4"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 2,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.229Z",
+        "updated_at": "2021-06-11T09:04:13.229Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.5"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 3,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.246Z",
+        "updated_at": "2021-06-11T09:04:13.246Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.6"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 4,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.262Z",
+        "updated_at": "2021-06-11T09:04:13.263Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.7"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 5,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.279Z",
+        "updated_at": "2021-06-11T09:04:13.279Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.8"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 6,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.295Z",
+        "updated_at": "2021-06-11T09:04:13.295Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.9"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 7,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.313Z",
+        "updated_at": "2021-06-11T09:04:13.313Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.10a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 8,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.330Z",
+        "updated_at": "2021-06-11T09:04:13.330Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.10b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 9,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.347Z",
+        "updated_at": "2021-06-11T09:04:13.347Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.10c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 10,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.363Z",
+        "updated_at": "2021-06-11T09:04:13.363Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.10d"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 11,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.380Z",
+        "updated_at": "2021-06-11T09:04:13.380Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.11a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 12,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.397Z",
+        "updated_at": "2021-06-11T09:04:13.397Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.11b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 13,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.414Z",
+        "updated_at": "2021-06-11T09:04:13.414Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.11c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 14,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.431Z",
+        "updated_at": "2021-06-11T09:04:13.431Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.11d"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 15,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.448Z",
+        "updated_at": "2021-06-11T09:04:13.448Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.12a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 16,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.465Z",
+        "updated_at": "2021-06-11T09:04:13.465Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.12b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 17,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.482Z",
+        "updated_at": "2021-06-11T09:04:13.482Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.12c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 18,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.498Z",
+        "updated_at": "2021-06-11T09:04:13.498Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.12d"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 19,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.516Z",
+        "updated_at": "2021-06-11T09:04:13.516Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.13a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 20,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.532Z",
+        "updated_at": "2021-06-11T09:04:13.532Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.13b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 21,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.549Z",
+        "updated_at": "2021-06-11T09:04:13.549Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.13c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 22,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.566Z",
+        "updated_at": "2021-06-11T09:04:13.566Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.13d"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 23,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.583Z",
+        "updated_at": "2021-06-11T09:04:13.584Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.14a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 24,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.600Z",
+        "updated_at": "2021-06-11T09:04:13.600Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.14b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 25,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.617Z",
+        "updated_at": "2021-06-11T09:04:13.617Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.14c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 26,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.633Z",
+        "updated_at": "2021-06-11T09:04:13.633Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.14d"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 27,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.651Z",
+        "updated_at": "2021-06-11T09:04:13.651Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.15a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 28,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.677Z",
+        "updated_at": "2021-06-11T09:04:13.677Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.15b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 29,
+    "fields": {
+        "created_at": "2021-06-11T09:04:13.694Z",
+        "updated_at": "2021-06-11T09:04:13.695Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 1,
+        "sub_category_value": "5.15c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 30,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.828Z",
+        "updated_at": "2021-06-11T09:04:49.828Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "4a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 31,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.846Z",
+        "updated_at": "2021-06-11T09:04:49.846Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "4b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 32,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.864Z",
+        "updated_at": "2021-06-11T09:04:49.864Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "4c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 33,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.880Z",
+        "updated_at": "2021-06-11T09:04:49.880Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "5a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 34,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.897Z",
+        "updated_at": "2021-06-11T09:04:49.897Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "5b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 35,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.914Z",
+        "updated_at": "2021-06-11T09:04:49.914Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "5c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 36,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.931Z",
+        "updated_at": "2021-06-11T09:04:49.931Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "6a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 37,
+    "fields": {
+        "created_at": "2021-06-11T09:04:49.947Z",
+        "updated_at": "2021-06-11T09:04:49.947Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "6a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 38,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.185Z",
+        "updated_at": "2021-06-11T09:04:50.185Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "6b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 39,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.201Z",
+        "updated_at": "2021-06-11T09:04:50.201Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "6b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 40,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.218Z",
+        "updated_at": "2021-06-11T09:04:50.218Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "6c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 41,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.235Z",
+        "updated_at": "2021-06-11T09:04:50.235Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "6c+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 42,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.252Z",
+        "updated_at": "2021-06-11T09:04:50.252Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "7a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 43,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.269Z",
+        "updated_at": "2021-06-11T09:04:50.269Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "7a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 44,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.286Z",
+        "updated_at": "2021-06-11T09:04:50.286Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "7b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 45,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.313Z",
+        "updated_at": "2021-06-11T09:04:50.313Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "7b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 46,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.331Z",
+        "updated_at": "2021-06-11T09:04:50.331Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "7c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 47,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.369Z",
+        "updated_at": "2021-06-11T09:04:50.369Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "7c+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 48,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.386Z",
+        "updated_at": "2021-06-11T09:04:50.386Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "8a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 49,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.403Z",
+        "updated_at": "2021-06-11T09:04:50.403Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "8a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 50,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.420Z",
+        "updated_at": "2021-06-11T09:04:50.420Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "8b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 51,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.437Z",
+        "updated_at": "2021-06-11T09:04:50.437Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "8b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 52,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.454Z",
+        "updated_at": "2021-06-11T09:04:50.454Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "8c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 53,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.470Z",
+        "updated_at": "2021-06-11T09:04:50.470Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "8c+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 54,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.488Z",
+        "updated_at": "2021-06-11T09:04:50.488Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "9a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 55,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.504Z",
+        "updated_at": "2021-06-11T09:04:50.504Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "9a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 56,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.522Z",
+        "updated_at": "2021-06-11T09:04:50.522Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "9b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 57,
+    "fields": {
+        "created_at": "2021-06-11T09:04:50.538Z",
+        "updated_at": "2021-06-11T09:04:50.538Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 0,
+        "sub_category": 2,
+        "sub_category_value": "9b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 58,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.377Z",
+        "updated_at": "2021-06-11T09:05:19.377Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V0"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 59,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.398Z",
+        "updated_at": "2021-06-11T09:05:19.398Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V1"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 60,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.414Z",
+        "updated_at": "2021-06-11T09:05:19.414Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V2"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 61,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.431Z",
+        "updated_at": "2021-06-11T09:05:19.431Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V3"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 62,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.448Z",
+        "updated_at": "2021-06-11T09:05:19.448Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V4"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 63,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.466Z",
+        "updated_at": "2021-06-11T09:05:19.466Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V5"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 64,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.482Z",
+        "updated_at": "2021-06-11T09:05:19.482Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V6"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 65,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.499Z",
+        "updated_at": "2021-06-11T09:05:19.500Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V7"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 66,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.516Z",
+        "updated_at": "2021-06-11T09:05:19.516Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V8"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 67,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.533Z",
+        "updated_at": "2021-06-11T09:05:19.533Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V9"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 68,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.549Z",
+        "updated_at": "2021-06-11T09:05:19.549Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V10"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 69,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.567Z",
+        "updated_at": "2021-06-11T09:05:19.567Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V11"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 70,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.583Z",
+        "updated_at": "2021-06-11T09:05:19.583Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V12"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 71,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.600Z",
+        "updated_at": "2021-06-11T09:05:19.600Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V13"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 72,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.617Z",
+        "updated_at": "2021-06-11T09:05:19.617Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V14"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 73,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.634Z",
+        "updated_at": "2021-06-11T09:05:19.634Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V15"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 74,
+    "fields": {
+        "created_at": "2021-06-11T09:05:19.650Z",
+        "updated_at": "2021-06-11T09:05:19.650Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 10,
+        "sub_category_value": "V16"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 75,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.667Z",
+        "updated_at": "2021-06-11T09:06:12.667Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "4"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 76,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.690Z",
+        "updated_at": "2021-06-11T09:06:12.690Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "4+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 77,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.706Z",
+        "updated_at": "2021-06-11T09:06:12.706Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "5"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 78,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.723Z",
+        "updated_at": "2021-06-11T09:06:12.723Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "5+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 79,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.740Z",
+        "updated_at": "2021-06-11T09:06:12.740Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "6a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 80,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.757Z",
+        "updated_at": "2021-06-11T09:06:12.757Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "6a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 81,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.773Z",
+        "updated_at": "2021-06-11T09:06:12.773Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "6b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 82,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.791Z",
+        "updated_at": "2021-06-11T09:06:12.791Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "6b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 83,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.807Z",
+        "updated_at": "2021-06-11T09:06:12.807Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "6c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 84,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.824Z",
+        "updated_at": "2021-06-11T09:06:12.824Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "6c+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 85,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.841Z",
+        "updated_at": "2021-06-11T09:06:12.841Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "7a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 86,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.858Z",
+        "updated_at": "2021-06-11T09:06:12.859Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "7a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 87,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.875Z",
+        "updated_at": "2021-06-11T09:06:12.875Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "7b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 88,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.891Z",
+        "updated_at": "2021-06-11T09:06:12.891Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "7b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 89,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.908Z",
+        "updated_at": "2021-06-11T09:06:12.908Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "7c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 90,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.925Z",
+        "updated_at": "2021-06-11T09:06:12.925Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "7c+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 91,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.942Z",
+        "updated_at": "2021-06-11T09:06:12.942Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "8a"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 92,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.960Z",
+        "updated_at": "2021-06-11T09:06:12.960Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "8a+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 93,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.975Z",
+        "updated_at": "2021-06-11T09:06:12.975Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "8b"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 94,
+    "fields": {
+        "created_at": "2021-06-11T09:06:12.991Z",
+        "updated_at": "2021-06-11T09:06:12.991Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "8b+"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 95,
+    "fields": {
+        "created_at": "2021-06-11T09:06:13.020Z",
+        "updated_at": "2021-06-11T09:06:13.020Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "8c"
+    }
+},
+{
+    "model": "gyms.gradetype",
+    "pk": 96,
+    "fields": {
+        "created_at": "2021-06-11T09:06:13.039Z",
+        "updated_at": "2021-06-11T09:06:13.039Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "grading_system": 1,
+        "sub_category": 11,
+        "sub_category_value": "8c+"
+    }
+}
+]

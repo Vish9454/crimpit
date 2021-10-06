@@ -1,0 +1,50 @@
+[
+{
+    "model": "accounts.listcategory",
+    "pk": 1,
+    "fields": {
+        "created_at": "2021-05-14T14:39:23.802Z",
+        "updated_at": "2021-05-14T14:39:23.802Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "name": "WARM UP",
+        "image": null,
+        "user": null,
+        "gym": null,
+        "is_common": true
+    }
+},
+{
+    "model": "accounts.listcategory",
+    "pk": 2,
+    "fields": {
+        "created_at": "2021-05-14T14:39:56.663Z",
+        "updated_at": "2021-05-14T14:39:56.664Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "name": "STRENGTH",
+        "image": null,
+        "user": null,
+        "gym": null,
+        "is_common": true
+    }
+},
+{
+    "model": "accounts.listcategory",
+    "pk": 3,
+    "fields": {
+        "created_at": "2021-05-14T14:40:03.825Z",
+        "updated_at": "2021-05-14T14:40:03.825Z",
+        "updated_by": null,
+        "is_deleted": false,
+        "deleted_at": null,
+        "name": "PRACTICE",
+        "image": null,
+        "user": null,
+        "gym": null,
+        "is_common": true
+    }
+}
+]
